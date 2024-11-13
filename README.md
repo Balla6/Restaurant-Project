@@ -14,7 +14,7 @@ This project simulates an interactive restaurant ordering system. Users can brow
 
 Here’s a preview of the project in action. Watch the video below to see how the ordering system works from start to finish.
 
-- **Project Walkthrough Video**: [Watch the video here]("C:\Users\Owner\Downloads\Restaurant Project.mp4")
+- **Project Walkthrough Video**: [Watch the video here](https://drive.google.com/file/d/1CWFOCr3HC22FkzcDKzk85N5kDeD2tlrC/view?usp=sharing)
 
 ## Technologies Used
 
