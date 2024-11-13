@@ -10,7 +10,15 @@ This project simulates an interactive restaurant ordering system. Users can brow
 - **Order Summary**: Provides an itemized summary, including prices, discounts, tax, and tip.
 - **Coupon Support**: Users can apply coupons for additional discounts.
 
-## How to Run
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Balla6/Restaurant-Project.git
+## Video
+
+Here’s a preview of the project in action. Watch the video below to see how the ordering system works from start to finish.
+
+- **Project Walkthrough Video**: [Watch the video here]("C:\Users\Owner\Downloads\Restaurant Project.mp4")
+
+## Technologies Used
+
+- **Python**: Core language for logic and calculations.
+- **Jupyter Notebook**: Used for running the project and displaying outputs interactively.
+- **Markdown**: For documentation within the notebook and README file.
+
